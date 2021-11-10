@@ -1,5 +1,6 @@
 mod file_util;
 
 fn main() {
-    file_util::bzip("E:\\Downloads\\t.zip","E:\\Downloads\\FC2PPV-1313698.mp4");
+    // file_util::bzip("D:\\t.zip","D:\\public.sql");
+    file_util::sevenz("D:\\t.sql","D:\\public.sql");
 }
